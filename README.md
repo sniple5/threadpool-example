@@ -1,2 +1,2 @@
 # threadpool-example
-# threadpool-example for ECM2414 workshop 3
+threadpool-example for ECM2414 workshop 3
